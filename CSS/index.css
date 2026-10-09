@@ -236,7 +236,7 @@ footer > div{
 }
 fieldset{
     max-width: 80vw;
-     padding: 5px 10px;
+    padding: 5px 10px;
     justify-content: center;
     margin: 0 auto; 
 }
@@ -256,5 +256,12 @@ header nav ul{
 .intro{
     grid-template-columns: repeat(3,1fr);
     grid-template-rows: repeat(5,1fr);
+}
+
+fieldset{
+    font-size: 0.8rem;
+    padding: 5px 10px;
+    justify-content: center;
+    margin: 0 auto; 
 }
 }
